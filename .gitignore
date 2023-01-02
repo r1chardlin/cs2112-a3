@@ -1,0 +1,12 @@
+/.gradle/
+/build/
+/bin/
+.classpath
+.project
+.settings
+*.class
+*.jar
+*.pdf
+*.DS_Store
+*.iml
+.idea
